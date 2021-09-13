@@ -7,13 +7,15 @@ link-citations: true
 
 This post gives a brief introduction to a new paradigm of solving RL problems using sequence modeling.
 
-# Regular RL
+## Sequence Model for Prediction
+
+![](./RL-with-Sequence-Modeling/2021-09-12-20-02-56.png)
+
+## Autoregressive Sequence Model
+
+## Regular RL
 
 # RL with Sequence Modeling 
-
-## Sequence Prediction
-
-## 
 
 ## Partial Observability
 
@@ -25,15 +27,10 @@ This post gives a brief introduction to a new paradigm of solving RL problems us
 
 ## Planning
 
-$$\require{HTML} \style{display: inline-block; transform: rotate(45deg)}{\Box}$$
-
-$$\begin{align}
-a &= b + c \label{eq3} \\
-x &= yz \label{eq4} \\
-l &= m - n \label{eq5}
-\end{align}$$
+$$E = mc^2$$
 
 
----
+
+### References
 [^3]: a footnote
 [^4]: [@chen_DecisionTransformerReinforcement_2021]
