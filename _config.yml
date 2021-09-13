@@ -115,3 +115,9 @@ pandoc:
   template:
   meta:
   mathEngine:
+    
+marked:
+  prependRoot: true
+  postAsset: true
+  
+all_minifier: true

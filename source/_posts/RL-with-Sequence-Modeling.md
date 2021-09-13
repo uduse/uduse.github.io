@@ -1,15 +1,15 @@
 ---
 title: RL with Sequence Modeling
-date: 2021-09-10 15:12:54
+date: 2021-09-12 20:12:31
 tags:
-link-citations: true
 ---
 
 This post gives a brief introduction to a new paradigm of solving RL problems using sequence modeling.
 
-## Sequence Model for Prediction
+<!-- more -->
 
-![](./RL-with-Sequence-Modeling/2021-09-12-20-02-56.png)
+## Sequence Model for Prediction
+{% asset_img 2021-09-13-00-36-08.png %}
 
 ## Autoregressive Sequence Model
 
@@ -29,8 +29,3 @@ This post gives a brief introduction to a new paradigm of solving RL problems us
 
 $$E = mc^2$$
 
-
-
-### References
-[^3]: a footnote
-[^4]: [@chen_DecisionTransformerReinforcement_2021]
