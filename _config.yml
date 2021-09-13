@@ -104,3 +104,14 @@ theme: next
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: ''
+
+# pandoc stuff
+pandoc:
+  extra:
+  - citeproc:
+    metadata: link-citations=true
+  - bibliography: "bibs.bib"
+  - csl: "association-for-computing-machinery.csl"
+  template:
+  meta:
+  mathEngine:
