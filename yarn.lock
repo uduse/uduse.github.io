@@ -3332,8 +3332,8 @@ type-fest@^0.11.0:
   resolved "https://registry.npmjs.org/type-fest/-/type-fest-0.11.0.tgz"
 
 ua-parser-js@^0.7.28:
-  version "0.7.28"
-  resolved "https://registry.npmjs.org/ua-parser-js/-/ua-parser-js-0.7.28.tgz"
+  version "0.7.33"
+  resolved "https://registry.yarnpkg.com/ua-parser-js/-/ua-parser-js-0.7.33.tgz#1d04acb4ccef9293df6f70f2c3d22f3030d8b532"
 
 uberproto@^1.1.0:
   version "1.2.0"
