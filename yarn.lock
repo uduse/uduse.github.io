@@ -1556,9 +1556,9 @@ hexo-renderer-ejs@^2.0.0:
   dependencies:
     ejs "^3.1.6"
 
-hexo-renderer-pandoc@^0.3.0:
-  version "0.3.0"
-  resolved "https://registry.npmjs.org/hexo-renderer-pandoc/-/hexo-renderer-pandoc-0.3.0.tgz"
+hexo-renderer-pandoc@^0.3.1:
+  version "0.3.1"
+  resolved "https://registry.yarnpkg.com/hexo-renderer-pandoc/-/hexo-renderer-pandoc-0.3.1.tgz#62d0ec7bed307bfdd626f36914e7f9d93d0cdf58"
 
 hexo-renderer-stylus@^2.0.0:
   version "2.0.1"
