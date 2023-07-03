@@ -1592,9 +1592,9 @@ hexo-theme-landscape@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/hexo-theme-landscape/-/hexo-theme-landscape-1.0.0.tgz#43a549ebb2bea73196200ee4397feb764131a481"
 
-hexo-theme-next@^8.16.0:
-  version "8.16.0"
-  resolved "https://registry.yarnpkg.com/hexo-theme-next/-/hexo-theme-next-8.16.0.tgz#81e870dfafac692a08d6a0a14b8646fea1c5775d"
+hexo-theme-next@^8.17.1:
+  version "8.17.1"
+  resolved "https://registry.yarnpkg.com/hexo-theme-next/-/hexo-theme-next-8.17.1.tgz#7ca0ff104e70adbd5b298e7088b409f244fa9b64"
 
 hexo-util@^0.6.3:
   version "0.6.3"
