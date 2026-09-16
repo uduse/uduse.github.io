@@ -1832,8 +1832,8 @@ imagemin@^7.0.1:
     replace-ext "^1.0.0"
 
 immutable@^3:
-  version "3.8.2"
-  resolved "https://registry.yarnpkg.com/immutable/-/immutable-3.8.2.tgz#c2439951455bb39913daf281376f1530e104adf3"
+  version "3.8.4"
+  resolved "https://registry.yarnpkg.com/immutable/-/immutable-3.8.4.tgz#af27c93537f09629c9d154a173cd55f7bfdc75fd"
 
 import-lazy@^3.1.0:
   version "3.1.0"
